@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Smokey Johnny</title>
+    <link>https://www.smokeyjohnny.nl/post/</link>
+    <description>Recent content in Posts on Smokey Johnny</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>jstavenuiter@quicknet.nl (John)</managingEditor>
+    <webMaster>jstavenuiter@quicknet.nl (John)</webMaster>
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.smokeyjohnny.nl/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wordt volleerd pitmaster!</title>
+      <link>https://www.smokeyjohnny.nl/post/2020-07-30-barbeque/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <author>jstavenuiter@quicknet.nl (John)</author>
+      <guid>https://www.smokeyjohnny.nl/post/2020-07-30-barbeque/</guid>
+      <description>Ben je er helemaal klaar mee dat BBQ’en bij jou altijd eindigt met je handen onder de blaren en een stapel zwartgeblakerd vlees? Wil je ook een keer wat anders dan altijd maar die satéstok en worst op de barbecue? Wil je ook graag de blits kunnen maken met het beste vlees tijdens je eerstvolgende BBQ, maar mis je nou nét die finesse? Dan zit je met de Workshop BBQ goed.</description>
+    </item>
+    
+    <item>
+      <title>Barbeque in style</title>
+      <link>https://www.smokeyjohnny.nl/post/2019-05-11-barbeque-in-style/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
+      <author>jstavenuiter@quicknet.nl (John)</author>
+      <guid>https://www.smokeyjohnny.nl/post/2019-05-11-barbeque-in-style/</guid>
+      <description>Goed barbequen is een vak apart, dat weet John als geen ander! Neem deel aan de workshop en wordt ook een pro door samen met John een eigen vleesgerecht te maken. Lekker barbequen en lekker samen oppeuzelen. We geven workshops op locatie, of bij u thuis.
+Ook leuk voor personeelsfeesten, weer eens iets anders!
+                                                      </description>
+    </item>
+    
+  </channel>
+</rss>
